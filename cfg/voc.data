@@ -1,0 +1,5 @@
+train  = ./dataset/train.txt
+valid  = ./dataset/2007_test.txt
+names = data/voc.names
+backup = backup
+gpus  = 0

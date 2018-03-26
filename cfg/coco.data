@@ -1,0 +1,3 @@
+names = cfg/slipper.names
+backup = backup
+gpus  = 0
